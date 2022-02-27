@@ -1,3 +1,8 @@
 .new-change {
     color: rebeccapurple;
 }
+
+.col-6 {
+    background-color: aquamarine !important;
+    font-weight: bold !important;
+}
